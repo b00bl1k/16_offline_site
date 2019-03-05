@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+Site template with no online dependencies.
 
 # Project Goals
 
